@@ -98,10 +98,7 @@ public class Login extends javax.swing.JFrame {
     }//GEN-LAST:event_isipasswordActionPerformed
 
     private void loginActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_loginActionPerformed
-       User[] registerdUser {
-        new User ("admin","admin"),
-        new User ("hallo","admin")
-    }
+ 
     }//GEN-LAST:event_loginActionPerformed
 
     /**
